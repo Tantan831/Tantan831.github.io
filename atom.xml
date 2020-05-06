@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tantan831.github.io</id>
-    <title>谭谭的blog</title>
-    <updated>2020-05-06T06:25:54.920Z</updated>
+    <title>二零四博客</title>
+    <updated>2020-05-06T06:47:31.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tantan831.github.io"/>
     <link rel="self" href="https://Tantan831.github.io/atom.xml"/>
-    <subtitle> 🤝欢迎来到我的小站呀，很高兴遇见你！ 
-
-
-
-🏠 关于本站
-这里是我的一个博客，分享一些生活、心情、知识、笔记、创意等方面的文章。欢迎各位小伙伴评论交流。
-
-
-👨‍💻 博主是谁
-博主就是一个平平无奇的记录小天才。
-
-
-
-
-
-⛹ 兴趣爱好
-喜欢绘画、写影评、玩滑板。喜欢一切有趣的事情和有趣的人。
-
-📬 联系我呀
-相信你会找的到我。</subtitle>
+    <subtitle>  </subtitle>
     <logo>https://Tantan831.github.io/images/avatar.png</logo>
     <icon>https://Tantan831.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 谭谭的blog</rights>
+    <rights>All rights reserved 2020, 二零四博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Tantan831.github.io/post/hello-gridea/</id>
